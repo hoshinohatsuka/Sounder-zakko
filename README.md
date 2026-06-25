@@ -21,7 +21,7 @@
     - Gradle 8.13
 
 修改自项目：
-[SounderAPP](https://github.com/stand404/Sounder)
+[SounderAPP](https://github.com/stand404/Sounder) 非常感谢这位大佬，修改这位大佬的软件是我参与开发的第一款软件。
 
 ### 开源协议
 MIT License  
